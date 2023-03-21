@@ -1,0 +1,11 @@
+.status-done {
+    color: green
+}
+
+.status-process {
+    color: blue
+}
+
+.status-failed {
+    color: red
+}

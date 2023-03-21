@@ -1,0 +1,10 @@
+POST http://localhost:5000/api/user/sign-up HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "birthday": "1990-02-02",
+    "email": "potter@hogwarts.com",
+    "password": "griffindor"
+}
